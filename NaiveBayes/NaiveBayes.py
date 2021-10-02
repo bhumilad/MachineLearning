@@ -5,6 +5,8 @@ Created on 2015/09/06
 
 API Reference: http://scikit-learn.org/stable/modules/naive_bayes.html#naive-bayes
 """
+
+# pip install numpy or conda install numpy
 import numpy as np
 
 class MultinomialNB(object):
